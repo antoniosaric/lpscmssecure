@@ -1,0 +1,8 @@
+.pager li .active_link{
+	background: black !important;
+	color: white;
+}
+
+.ck-editor__editable {
+    min-height: 150px;
+}
